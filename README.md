@@ -1,4 +1,4 @@
-# projects-portfolio
+# Portfolio Website Showcase
 
 A portfolio website to showcase the projects I have created as a developer.
 
